@@ -31,3 +31,4 @@ source 'https://rubygems.org'
  gem 'turbolinks'
  # programmer added
  gem 'rails-controller-testing'
+ gem 'bootstrap-sass'
