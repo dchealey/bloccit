@@ -33,3 +33,4 @@ source 'https://rubygems.org'
  # programmer added
  gem 'rails-controller-testing'
  gem 'bootstrap-sass'
+ gem 'bcrypt'
