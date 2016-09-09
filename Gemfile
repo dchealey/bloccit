@@ -33,3 +33,6 @@ source 'https://rubygems.org'
  # programmer added
  gem 'bootstrap-sass'
  gem 'bcrypt'
+
+ gem 'actioncable'
+
