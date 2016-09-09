@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
  
  # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
- gem 'rails', '~> 5.0.0', '>= 5.0.0.1'
+ gem 'rails', '~> 4.2.5'
 
  # #1
  group :production do
@@ -12,7 +12,7 @@ source 'https://rubygems.org'
  # #2
  group :development do
    gem 'sqlite3'
-   gem 'listen', '~> 3.0.5'
+   gem 'pry-rails'
  end
  
  group :development, :test do
@@ -31,6 +31,5 @@ source 'https://rubygems.org'
  # Turbolinks makes following links in your web application faster. Read more: https://github.com/rails/turbolinks
  gem 'turbolinks'
  # programmer added
- gem 'rails-controller-testing'
  gem 'bootstrap-sass'
  gem 'bcrypt'
